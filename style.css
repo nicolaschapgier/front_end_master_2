@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    list-style-type: none;
+}
+
+nav{
+}
+
+nav ul{
+    display: flex;
+    justify-content: flex-end;
+    margin: 20px;
+    /* border: 1px solid red; */
+}
+
+nav ul li{
+    margin : 20px
+}
+svg{
+    position: absolute;
+    margin: 20px;
+}
